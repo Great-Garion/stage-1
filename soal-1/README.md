@@ -28,31 +28,28 @@ Berikut kerangka tampilan yg dapat di jadikan sebagai referensi
 **Kriteria penilaian** berdasarkan ketentuan sebagai berikut :
 
 - Gunakan semantic HTML (5%)
-- Menggunakan Styling CSS / Bootstrap (5%)
-- Harus Mobile Responsive (5%)
+- Menggunakan Styling CSS / Bootstrap / Tailwind (20%)
+- Harus Mobile Responsive (15%)
 - Gunakan **`function`** untuk menyimpan statement/perintah dari fitur yang dibutuhkan (5%)
-- Gunakan `fetch` untuk mendapatkan data dari API (silahkan gunakan promise/async await) (20%)
-- Gunakan Looping untuk mengakses data array satu per satu sebelum data di tampilkan (20%)
-- Tampilkan seluruh data yang diambil menggunakan DOM(Document Object Model) (20%)
-- Jika data ditemukan, perbarui data yang di tampilkan menggunakan DOM. Jika tidak ditemukan, munculkan keterangan data tidak ditemukan atau illustrasi image (https://undraw.co) (20%)
+- Gunakan **`fetch`** untuk mendapatkan data dari API (silahkan gunakan promise/async await) (10%)
+- Gunakan Looping untuk mengakses data array satu per satu sebelum data di tampilkan (10%)
+- Tampilkan seluruh data yang diambil menggunakan DOM(Document Object Model) (25%)
+- Jika data ditemukan, perbarui data yang di tampilkan menggunakan DOM. Jika tidak ditemukan, munculkan keterangan data tidak ditemukan atau illustrasi image (https://undraw.co) (10%)
 
 Ketentuan tugas:
 
 - API  :
-    - [https://kawalcorona.com/api/](https://kawalcorona.com/api/)
-    - Petunjuk penggunaan / dokumentasi API sudah ada di web
-- Alternative API :
-    - page home:
-        - indonesia: [https://covid19.mathdro.id/api/countries/Indonesia](https://covid19.mathdro.id/api/countries/Indonesia/confirmed)
-        - global: [https://covid19.mathdro.id/api/](https://covid19.mathdro.id/api/)
-    - page search: [https://covid19.mathdro.id/api/confirmed](https://covid19.mathdro.id/api/confirmed)
+  - page home:
+      - indonesia: [https://covid19.mathdro.id/api/countries/Indonesia](https://covid19.mathdro.id/api/countries/Indonesia/confirmed)
+      - global: [https://covid19.mathdro.id/api/](https://covid19.mathdro.id/api/)
+  - page search: [https://covid19.mathdro.id/api/confirmed](https://covid19.mathdro.id/api/confirmed)
 - Publish website portofolio ke Netlify
 
 Kamu bebas untuk menambahkan Halaman lain atau Fitur lainnya sekreatif mungkin
 
 # Benchmark Scoring
 
-60 - 70 **:** Kemampuan peserta mendekati standar dan ****membutuhkan mentoring tambahan
+60 - 70 : Kemampuan peserta mendekati standar dan **membutuhkan** mentoring tambahan
 
 70 - 80 : Kemampuan peserta sudah cukup baik dan perlu dipertajam lagi
 
