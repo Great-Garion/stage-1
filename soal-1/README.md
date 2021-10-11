@@ -44,6 +44,7 @@ Ketentuan tugas:
       - global: [https://covid19.mathdro.id/api/](https://covid19.mathdro.id/api/)
   - page search: [https://covid19.mathdro.id/api/confirmed](https://covid19.mathdro.id/api/confirmed)
 - Publish website portofolio ke Netlify
+- Terindikasi plagiat akan diberi nilai 0
 
 Kamu bebas untuk menambahkan Halaman lain atau Fitur lainnya sekreatif mungkin
 
